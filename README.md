@@ -2,10 +2,12 @@
 <p align="center"></p>
 
 ```
-FlyProtect est un puissant bot de modération entièrement composé de commandes slash et il est très rapide et très sécurisé
+FlyProtect est un puissant bot de modération entièrement 
+composé de commandes slash et il est très rapide et très sécurisé
 ```
 ```
-Voici la page d'aide, vous trouverez ci-dessous la liste de toutes les commandes disponibles ainsi que leur description
+Voici la page d'aide, vous trouverez ci-dessous la liste de 
+toutes les commandes disponibles ainsi que leur description
 ```
 ## 🤖 Invite le Bot sur votre serveur !
 
