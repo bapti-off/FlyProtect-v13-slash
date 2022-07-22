@@ -1,4 +1,4 @@
-<h1 align="center"> DiscoBot {Engin} </h1>
+<h1 align="center"> FlyProtect {Engin} </h1>
 <p align="center"></p>
 
 ```
@@ -9,15 +9,15 @@ Voici la page d'aide, vous trouverez ci-dessous la liste de toutes les commandes
 ```
 ## 🤖 Invite le Bot sur votre serveur !
 
-   [Cliquez sur moi pour inviter le bot](https://discord.com/oauth2/authorize?client_id=996082379875680398&permissions=3147776&redirect_uri=https%3A%2F%2Fdisco-bot.com%2F&response_type=code&scope=bot%20applications.commands%20connections) 
+   [Cliquez sur moi pour inviter le bot]([https://discord.com/oauth2/authorize?client_id=996082379875680398&permissions=3147776&redirect_uri=https%3A%2F%2Fdisco-bot.com%2F&response_type=code&scope=bot%20applications.commands%20connections](https://discord.com/oauth2/authorize?client_id=837620596774010880&permissions=1103239605463&redirect_uri=https%3A%2F%2Ffly-bot.space%2F&response_type=code&scope=bot%20applications.commands%20guilds.join)) 
 
 ## 🌐 Site internet du Bot !
 
-  [Cliquez sur moi pour visiter le site](https://disco-bot.com/) 
+  [Cliquez sur moi pour visiter le site](https://fly-bot.space/) 
 
 ## 📥 Vote pour le Bot !
 
-  [Cliquez sur moi pour voter](https://top.gg/bot/996082379875680398/vote)
+  [Cliquez sur moi pour voter](https://top.gg/bot/837620596774010880/vote)
   
 ### 🛠・Liste des commandes Modération
 
